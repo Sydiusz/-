@@ -1,0 +1,146 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.butt_1 li:hover {
+    color: black;
+    text-decoration: underline;
+}
+.butt_1 li {
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(107, 105, 105)
+}
+.butt_1 {
+    display: inline-block;
+    margin-left: 500px;
+}
+#logotip {
+    display: inline-block;
+    margin-left: 5%;
+    vertical-align:middle;
+}
+main {
+    background-color: rgb(70, 70, 77);
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+footer {
+    background-color: rgb(70, 70, 77);
+}
+.par {
+    width: 1350px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    font-size: 28px;
+    margin: 0;
+    color: white;
+    padding: 30px;
+    margin-left: 220px;
+}
+.jung {
+    position: relative;
+    left: 250px
+}
+#absolute {
+    border-radius: 10px;
+    padding: 7px;
+    color: rgb(70, 70, 77);
+    position: absolute;
+    top: 191px;
+    left: 190px;
+    background-color: white;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.par2 {
+    vertical-align:middle;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    font-size: 28px;
+    margin: 0;
+    color: white;
+    padding: 30px;
+    margin-left: 220px;
+}
+.rad img {
+    display:inline-block ;
+    width: 250px;
+    padding: 0px 50px 50px 50px;
+    vertical-align:middle;
+}
+.rad {
+    margin-left:200px ;
+}
+#down {
+    position: relative;
+    margin-left: 237px;
+}
+.table {
+    display: inline-block;
+    width: 21%;
+    padding: 10px; 
+}
+.stay {
+    display: inline-block;
+    margin: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(216, 216, 207);
+}
+.stolb { 
+    color: rgb(216, 216, 207);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 15px;
+}
+hr { 
+    display: inline-block; 
+    width: 57%; 
+}
+#sec {
+    width: 61%;
+}
+.min {
+    display: inline-block;
+    vertical-align:middle;
+    width: 30px;
+}
+.under {
+    display: inline-block;
+    width: 74%;
+    margin-left:12%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.low_txt {
+    color: rgb(216, 216, 207);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 12%;
+    display: inline-block;
+}
+.low_txt a {
+    color: rgb(216, 216, 207);
+}
+.butt {
+    display: inline-block;
+    margin-left: 23%;
+}
+.butt li {
+    display: inline-block;
+    margin: 8px;
+    color: rgb(216, 216, 207);
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
